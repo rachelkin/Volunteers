@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABFBA6-8601-405E-9B5A-4F8790AE6835}|..\\Repositoryy\\Repositoryy.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\repositoryy\\volunteerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABFBA6-8601-405E-9B5A-4F8790AE6835}|..\\Repositoryy\\Repositoryy.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\repositoryy\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\volunteer.api\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEF091-D761-4B9E-82E0-74F329598AC9}|..\\Volunteer.Service\\Volunteer.Service.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\volunteer.service\\volunteerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EAE0C8-354F-4661-B5F0-DEA052186CBF}|..\\Volunteer.Entities\\Volunteer.Entities.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\volunteer.entities\\ivolunteerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\volunteer.api\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|c:\\net_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\volunteer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F78FF-1CB6-4013-AC4F-81786D6DADC9}|Volunteer.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\Repositoryy\\DataContext.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\DataContext.cs",
+              "RelativeToolTip": "..\\Repositoryy\\DataContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAADcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:29:46.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwGkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:08:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "Controllers\\SkillsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:01:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVolunteerService.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerService.cs",
+              "RelativeDocumentMoniker": "..\\Volunteer.Entities\\IVolunteerService.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Entities\\IVolunteerService.cs",
+              "RelativeToolTip": "..\\Volunteer.Entities\\IVolunteerService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA1wBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:51:10.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolunteerRepository.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\VolunteerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositoryy\\VolunteerRepository.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Repositoryy\\VolunteerRepository.cs",
+              "RelativeToolTip": "..\\Repositoryy\\VolunteerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:29:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VolunteerService.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\VolunteerService.cs",
+              "RelativeDocumentMoniker": "..\\Volunteer.Service\\VolunteerService.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Service\\VolunteerService.cs",
+              "RelativeToolTip": "..\\Volunteer.Service\\VolunteerService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:20:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VolunteersController.cs",
+              "ToolTip": "C:\\NET_project\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05EA\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\Volunteer.Api\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:34:41.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

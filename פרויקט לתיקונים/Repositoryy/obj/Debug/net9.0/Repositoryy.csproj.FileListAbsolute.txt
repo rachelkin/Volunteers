@@ -1,0 +1,77 @@
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\DTOs.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.sourcelink.json
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+C:\Users\pc\Desktop\קורס .NET CORE\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.dll
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+C:\Users\chen0\Downloads\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.dll
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+C:\NET_project\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+C:\NET_project\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.deps.json
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.runtimeconfig.json
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.dll
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Repositoryy.pdb
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.dll
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.dll
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\Volunteer.Entities.pdb
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\bin\Debug\net9.0\DTOs.pdb
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.AssemblyReference.cache
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfoInputs.cache
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.AssemblyInfo.cs
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.csproj.CoreCompileInputs.cache
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Reposito.169D9CCE.Up2Date
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.dll
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\refint\Repositoryy.dll
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.pdb
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\Repositoryy.genruntimeconfig.cache
+C:\Users\רחל\Downloads\פרויקט\פרויקט לתיקונים\Repositoryy\obj\Debug\net9.0\ref\Repositoryy.dll
