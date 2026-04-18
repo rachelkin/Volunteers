@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "build:clean": "node ./node_modules/vite/bin/vite.js build"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -15,9 +16,4 @@
     "@vitejs/plugin-react": "^4.3.1",
     "vite": "^5.4.1"
   }
-  "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "build:clean": "node ./node_modules/vite/bin/vite.js build"
-}
 }
