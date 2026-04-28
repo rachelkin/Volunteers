@@ -53,8 +53,8 @@ namespace Volunteer.Api
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             //builder.Services.AddOpenApi();
             builder.Services.AddSingleton<JwtService>();
-            builder.Services.AddDbContext<DataContext>();
-            builder.Services.AddScoped<IVolunteerService, VolunteerService>();
+builder.Services.AddDbContext<DataContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));            builder.Services.AddScoped<IVolunteerService, VolunteerService>();
             builder.Services.AddScoped<IVolunteerRepository, VolunteerRepository>();
             builder.Services.AddAutoMapper(cfg => {
                 cfg.AddProfile<MappingProfile>();
